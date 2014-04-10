@@ -10,7 +10,7 @@
         "url": "git://github.com/VD42/FlexSlider.git"
     },
     "keywords": [
-        "reveal"
+        "flexslider"
     ],
     "main": "./jquery.flexslider.js",
     "dependencies": {
